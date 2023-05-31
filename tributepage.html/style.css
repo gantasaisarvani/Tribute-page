@@ -1,0 +1,30 @@
+#title {
+    
+    color: black;
+   font-family:'Courier New', Courier, monospace;
+   text-align:center;
+   font-size: 100px;
+   margin-left: 90px;
+
+
+}
+#image {
+    width: 100%;
+    height: auto;
+border: 3px solid #555;
+}
+   
+
+#tribute-info {
+   font-family: monospace;
+   font-size:20px;
+    
+    
+}
+
+.left {
+    text-align:end;
+    font-size: 20px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
